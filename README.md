@@ -1,6 +1,8 @@
 ![Header](https://raw.githubusercontent.com/salvaba94/salvaba94/main/readme_header.jpeg "Header")
 
-I'm an **aerospace engineer** with background in flight dynamics software engineering and unmanned aerial systems engineering. Currently working in Artificial Intelligence (AI) applied aerial systems Guidance, Navigation and Control (GNC). Needless to say, I'm deeply passionate about topics such as **cloud**, **data science**, **Machine Learning (ML)**, **Deep Learning (DL)**, **optimisation** and **High-Performance Computing (HPC)**.
+# Hey y'all!
+
+I'm an **aerospace engineer** with background in flight dynamics software engineering and unmanned aerial systems. Currently working in Artificial Intelligence (AI) applied to aerial Guidance, Navigation and Control (GNC) systems. Needless to say, I'm deeply passionate about topics such as **cloud**, **data science**, **Machine Learning (ML)**, **Deep Learning (DL)**, **optimisation** and **High-Performance Computing (HPC)**.
 
 
 ## 🔧 Technologies & Tools
@@ -34,3 +36,10 @@ I'm an **aerospace engineer** with background in flight dynamics software engine
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=salvaba94&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=0e76a8&bg_color=1d1f21" alt="Salva's GitHub Stats" height="249" />
 </a>
 
+## 📕 Contact & Writing
+
+<p>
+<a href="https://www.linkedin.com/in/salbeal/">
+  <img align="left" alt="Salva's LinkdeIn" src="https://raw.githubusercontent.com/salvaba94/salvaba94/main/linkedin_icon.png" width="35" />
+</a>
+</p>
