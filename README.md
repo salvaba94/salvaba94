@@ -30,10 +30,10 @@ I'm an **aerospace engineer** with background in flight dynamics software engine
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/salvaba94/salvaba94">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salvaba94&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" height="190" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salvaba94&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" height="180" />
 </a>
 <a href="https://github.com/salvaba94/salvaba94">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=salvaba94&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=0e76a8&bg_color=1d1f21" alt="Salva's GitHub Stats" height="190" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=salvaba94&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=0e76a8&bg_color=1d1f21" alt="Salva's GitHub Stats" height="180" />
 </a>
 
 ## 📕 Contact & Writing
