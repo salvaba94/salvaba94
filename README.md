@@ -3,7 +3,7 @@
 
 # Hey y'all!
 
-I'm an **aerospace engineer** with background in flight dynamics software engineering and unmanned aerial systems. Currently working in Artificial Intelligence (AI) applied to aerial Guidance, Navigation and Control (GNC) systems. Needless to say, I'm deeply passionate about topics such as **cloud**, **data science**, **Machine Learning (ML)**, **Deep Learning (DL)**, **optimisation** and **High-Performance Computing (HPC)**.
+I'm an **AI/ML Engineer** and **Aerospace Engineer** with background in flight dynamics software engineering and AI/ML edge computing in unmanned aerial systems. Currently working in AI/ML applied to aerial Guidance, Navigation and Control (GNC) systems. Needless to say, I'm deeply passionate about topics such as **cloud**, **data science**, **Machine Learning (ML)**, **Deep Learning (DL)**, **ML Operations (MLOps)**, **optimisation** and **High-Performance Computing (HPC)**.
 <!-- /INTRO -->
 
 
