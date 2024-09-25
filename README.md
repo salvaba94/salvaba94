@@ -3,7 +3,7 @@
 
 # Hey y'all!
 
-I'm an **AI/ML Engineer** and **Aerospace Engineer** with background in flight dynamics software engineering and AI/ML edge computing. Needless to say, I'm deeply passionate about topics such as **cloud**, **data science**, **Machine Learning (ML)**, **Deep Learning (DL)**, **ML Operations (MLOps)**, **optimisation** and **High-Performance Computing (HPC)**.
+Welcome to my github space, I'm an **AI/ML Engineer** with background in software engineering and AI/ML edge computing. Needless to say, I'm deeply passionate about topics such as **data science**, **Machine Learning (ML)**, **Deep Learning (DL)**, **ML Operations (MLOps)**, **optimisation** and **High-Performance Computing (HPC)**.
 <!-- /INTRO -->
 
 
@@ -50,6 +50,9 @@ I'm an **AI/ML Engineer** and **Aerospace Engineer** with background in flight d
 <p>
 <a href="https://www.linkedin.com/in/salbeal/">
   <img align="left" alt="Salva's LinkdeIn" src="https://raw.githubusercontent.com/salvaba94/salvaba94/main/linkedin_icon.png" width="35" />
+</a>
+<a href="https://www.kaggle.com/salbeal94">
+  <img align="left" alt="Salva's Kaggle" src="https://raw.githubusercontent.com/salvaba94/salvaba94/main/linkedin_icon.png" width="35" />
 </a>
 </p>
 <!-- /CONTACT -->
