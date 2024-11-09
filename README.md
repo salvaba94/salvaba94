@@ -8,9 +8,9 @@ Welcome to my GitHub! 🚀
 I am an AI/ML Engineer, forged in the fires of software engineering principles and with background in aerospace engineering. My passion lies in the intersection of Machine Learning (ML) and optimization with:
 
 * Finance
-* Energy management
 * Aerospace
 * Computer vision
+* Robotics
 * Natural language processing
 * Graphics and computer graphics
 
